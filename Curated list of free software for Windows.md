@@ -70,7 +70,7 @@ A curated list of free everyday software tools for Windows (files, documents, ph
 
 ## Popular free/open-source utilities
 
-- [Awayra](https://awayra.github.io/AWAYRA-WPF/) – free, open-source Windows app with separate reminders to rest your eyes and move.
+- [Awayra](https://awayra.github.io/AWAYRA-WPF/) – free, open-source Windows break reminder with separate eye and movement timers, snooze, and optional sound.
 
 - [7Zip](https://7-zip.org/download.html) – free and open-source file archiver.
 
