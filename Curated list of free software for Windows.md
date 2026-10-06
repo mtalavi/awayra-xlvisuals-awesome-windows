@@ -70,6 +70,8 @@ A curated list of free everyday software tools for Windows (files, documents, ph
 
 ## Popular free/open-source utilities
 
+- [Awayra](https://awayra.github.io/AWAYRA-WPF/) – free, open-source Windows app with separate reminders to rest your eyes and move.
+
 - [7Zip](https://7-zip.org/download.html) – free and open-source file archiver.
 
 - [Proton Pass](https://proton.me/pass), [KeePassXC](https://keepassxc.org/), or [Password Safe](https://www.pwsafe.org/) – the most secure password managers. KeePassXC and Password Safe are offline and free, Proton pass is online and requires a subscription for the free tier.
